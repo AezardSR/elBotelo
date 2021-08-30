@@ -1,0 +1,25 @@
+{
+  "name": "elbotelo",
+  "version": "1.0.0",
+  "description": "\"envoyer les fichier du serveur discord sur le site\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "start\"\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\"\u001b[C\u001b[C\u001b[D\u001b[Ds\u001b[2~tart\": \"echo \\\"Error: no test specified\\\" && exit1\u001b[D \u001b[1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AezardSR/elBotelo.git"
+  },
+  "keywords": [
+    "ip"
+  ],
+  "author": "Aezard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AezardSR/elBotelo/issues"
+  },
+  "homepage": "https://github.com/AezardSR/elBotelo#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
